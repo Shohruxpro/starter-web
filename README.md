@@ -21,3 +21,7 @@ Some links go here
 ## Docs
 
 Here you can read our documentation
+
+### Copyright
+
+copyright &copy; 2020
