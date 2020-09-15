@@ -18,6 +18,10 @@ This section is about this repo
 
 Some links go here
 
+## Contribute
+
+Please fork this repo.
+
 ## Docs
 
 Here you can read our documentation
