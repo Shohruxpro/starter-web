@@ -28,4 +28,4 @@ Here you can read our documentation
 
 ### Copyright
 
-copyright &copy; 2020
+copyright &copy; 2020. All rights reserved.
