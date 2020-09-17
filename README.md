@@ -12,7 +12,7 @@ This paragraph describes our project
 
 ## About
 
-This section is about this repo
+This section is about this repository
 
 ## Links
 
