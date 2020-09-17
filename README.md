@@ -24,7 +24,7 @@ Please fork this repo.
 
 ## Docs
 
-Here you can read our documentation
+Here you can read our documentation.
 
 ### Copyright
 
